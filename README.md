@@ -1,66 +1,95 @@
-🏡 Airbnb Data Visualization Dashboard
-This project is a data visualization dashboard built using Tableau, designed to analyze Airbnb listings data. It provides insights into pricing trends, bedroom distributions, revenue patterns, and geographical pricing across various zip codes.
+# 🏡 Airbnb Data Visualization Dashboard
 
+This project is a comprehensive data visualization dashboard created using **Tableau**, aimed at analyzing Airbnb listings. It provides insights into:
 
-📊 Dashboard Overview
-The dashboard is structured to deliver actionable insights using the following key components:
+- 💲 Pricing trends  
+- 🛏️ Bedroom distributions  
+- 📈 Revenue patterns  
+- 📍 Geographical pricing across various zip codes  
 
-1. Average Price Per Bedroom
-A bar chart showcasing the average listing price categorized by the number of bedrooms.
+---
 
-Reveals how price scales with additional bedrooms.
+## 📊 Dashboard Overview
 
-2. Distinct Count of Bedroom Listings
-A table summarizing the total number of listings per bedroom count.
+The dashboard is structured to deliver **actionable insights** using the following key components:
 
-Useful for identifying supply distribution.
+### 1️⃣ Average Price Per Bedroom  
+📊 A bar chart showcasing the **average listing price** categorized by the number of bedrooms.  
+➡️ Reveals how price scales with additional bedrooms.
 
-3. Price Per Zipcode (Map View)
-An interactive map showing the average price by zip code.
+### 2️⃣ Distinct Count of Bedroom Listings  
+🧾 A table summarizing the **total number of listings per bedroom count**.  
+➡️ Useful for identifying market supply distribution.
 
-Highlights regional pricing disparities within the city.
+### 3️⃣ Price Per Zipcode (Map View)  
+🗺️ An interactive **map** showing average prices by zip code.  
+➡️ Highlights regional pricing disparities within the city.
 
-4. Price by Zipcode (Bar Chart)
-Detailed bar graph comparing average prices across all zip codes.
+### 4️⃣ Price by Zipcode (Bar Chart)  
+📉 A **bar graph** comparing average prices across zip codes.  
+➡️ Enables easy identification of high and low-cost areas.
 
-Enables easy identification of high and low-cost areas.
+### 5️⃣ Revenue for Year  
+📆 A **time series line chart** tracking revenue trends by week in 2016.  
+➡️ Identifies seasonal patterns and revenue growth over time.
 
-5. Revenue for Year
-A time series line chart tracking revenue trends across weeks in 2016.
+---
 
-Useful to identify seasonal patterns and revenue growth.
+## 📂 Project Files
 
-📂 Project Files
-File Name	Description
-AirBnB Project.twb	Tableau workbook file with dashboard
-Tableau Full Project.xlsx	Cleaned and processed Airbnb dataset
-Airbnb Dashboard PNG.png	PNG image of the final dashboard
-📁 Dataset Source
-The dataset used in this project can be found on Kaggle:
-🔗 Airbnb Dataset – Kaggle
+| 📄 File Name                    | 📝 Description                            |
+|-------------------------------|-------------------------------------------|
+| `AirBnB Project.twb`          | Tableau workbook file with dashboard      |
+| `Tableau Full Project.xlsx`   | Cleaned and processed Airbnb dataset      |
+| `Airbnb Dashboard PNG.png`    | Static image of the final dashboard       |
 
-🛠️ Tools & Technologies
-Tableau for data visualization
+---
 
-Microsoft Excel for data cleaning and transformation
+## 📁 Dataset Source
 
-Mapbox for enhanced geospatial mapping in Tableau
+The dataset used in this project is publicly available on **Kaggle**:  
+🔗 [Airbnb Dataset – Kaggle](https://www.kaggle.com/datasets/karans07/airbnb-dataset)
 
-🔍 Key Insights
-Listings with more bedrooms are priced significantly higher on average.
+---
 
-Most listings are 1-bedroom, suggesting a market skewed toward solo travelers or couples.
+## 🛠️ Tools & Technologies
 
-Zip code pricing varies widely, with some areas consistently showing higher average prices.
+- 🧩 **Tableau** – For interactive data visualization  
+- 📊 **Microsoft Excel** – For data preprocessing and transformation  
+- 🗺️ **Mapbox** – For enhanced geospatial visualization in Tableau  
 
-Revenue growth stabilizes mid-year, likely indicating seasonal booking behavior.
+---
 
-📌 How to Use
-Open the AirBnB Project.twb file in Tableau.
+## 🔍 Key Insights
 
-Ensure the Excel file (Tableau Full Project.xlsx) is in the same directory.
+✅ Listings with **more bedrooms** are priced **significantly higher** on average.  
+✅ Majority of listings are **1-bedroom**, indicating high demand from solo travelers and couples.  
+✅ **Zip code pricing** varies widely, with certain areas consistently priced higher.  
+✅ **Revenue growth stabilizes mid-year**, likely due to seasonal travel behavior.
 
-Explore the interactive dashboard or customize visualizations as needed.
+---
 
-📧 Contact
-For questions or feedback, feel free to reach out via GitHub or email.
+## 📌 How to Use
+
+1. 📥 Download or clone the repository.  
+2. 📂 Ensure the following files are in the same directory:
+   - `AirBnB Project.twb`
+   - `Tableau Full Project.xlsx`
+3. 🖥️ Open `AirBnB Project.twb` in **Tableau Desktop**.
+4. 🧭 Explore the dashboard or customize visualizations based on your needs.
+
+---
+
+## 📧 Contact
+
+For questions, feedback, or contributions, feel free to reach out via GitHub or email.  
+Let’s collaborate and build more data-driven stories! 🚀
+
+---
+
+### 📌 Hashtags (for visibility)
+
+`#AirbnbDashboard` `#DataVisualization` `#TableauProject` `#AirbnbData`  
+`#DataAnalytics` `#KaggleDataset` `#RevenueAnalysis` `#GeospatialAnalysis`  
+`#BusinessIntelligence` `#TableauViz` `#OpenDataProject`
+
