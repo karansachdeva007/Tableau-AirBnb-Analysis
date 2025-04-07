@@ -34,9 +34,14 @@ The dashboard is structured to deliver **actionable insights** using the followi
 ➡️ Identifies seasonal patterns and revenue growth over time.
 
 ---
----
+
 ## Dashboard Interaction
 - <a href="https://github.com/karansachdeva007/Tableau-AirBnb-Analysis/blob/main/Airbnb%20Dashboard%20PNG.png">View Dashboard</a>
+
+---
+
+## Final Tableau Dashboard
+<a href="https://public.tableau.com/app/profile/karan.sachdeva3306/viz/AirBnBProject_17440425482220/Dashboard1">View Dashboard In Tableau Public</a>
 
 ---
 
